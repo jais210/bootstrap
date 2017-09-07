@@ -1,2 +1,2 @@
 # bootstrap
-ejercicio evaluado
+ejercicio guiado
